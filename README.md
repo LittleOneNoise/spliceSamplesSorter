@@ -9,7 +9,7 @@ Don't waste your time anymore, with SpliceSamplesSorter you will be able to rear
 1. This app is coded in **Python 3.9**, therefore you first need to make sure that you have Python installed, at least Python 3.x, the closer to the version I used to code, the less chance the application will break.
 You can download the latest version here : https://www.python.org/downloads/
 
-2. Then, open spliceSamplesSorter.py with any code editor (Notepad, Notepad++, SublimeText, VSCode, etc) and modify the path (at line 8) to fit yours, the text between the apostrophes must be the root path of Splice samples, it might depends on how you setup the installation of Splice, one way to check is to go in Splice settings and check Splice folder category. When done, save the modifications anc close the editor.
+2. Then, open spliceSamplesSorter.py with any code editor (Notepad, Notepad++, SublimeText, VSCode, etc) and modify the path (at line 8) to fit yours, the text between the apostrophes must be the root path of Splice samples, it might depends on how you setup the installation of Splice, one way to check is to go in Splice settings and check Splice folder category. When done, save the modifications and close the editor.
 ```python
 ########## PATH ###############
 
